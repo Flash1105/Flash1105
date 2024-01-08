@@ -19,7 +19,7 @@ Here are some of my projects that I'm most proud of:
 
 ## 🛠 Skills and Tools
 
-- Languages: HTML, CSS, Pytho
+- HTML, CSS, Python, JavaScript, SQL, React, API, JSX
 
 ## 📜 License
 - The license under which my projects are available.
